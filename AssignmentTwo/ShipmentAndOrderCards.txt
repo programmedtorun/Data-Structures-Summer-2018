@@ -1,0 +1,23 @@
+S,Chicago,5,2,10
+S,Los Angeles,20,15,13
+O,Los Angeles,25,4,2
+S,Miami,15,30,10
+S,New York,20,4,20
+O,Miami,4,1,1
+S,Houston,3,5,2
+O,Chicago,200,3,300
+S,Chicago,5,5,5
+O,New York,2,3,10
+S,Miami,10,10,10
+O,Miami,3,10,7
+O,Los Angeles,12,1,3
+S,Chicago,20,20,20
+S,Los Angeles,20,20,20
+S,Miami,20,20,20
+O,Houston,2,3,1
+S,New York,20,20,20
+S,Houston,20,20,20
+O,New York,20,3,3
+S,Los Angeles,4,4,4
+O,Chicago,4,5,1
+O,Houston,30,30,30

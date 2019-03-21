@@ -1,0 +1,16 @@
+I am changing the format of the incoming data.
+- If a family member has children, those children will be placed on the
+  line immediately below. Similarly if the children have children their
+  children will be placed on the line immediately below.
+
+- For example, the example in the assignment text changes to:
+
+Jones,3     (Jones is the root, this is the same, root = first line. Jones sons are below)
+Bob,2       (Bob is one of Jones' sons)
+Richard,0   (Since Bob has 2 sons they are immediately below - Richard = son 1 of Bob)
+Jake,1      (Jake son 2 of Bob)
+Bill,0      (Bill is son 1 of Jake - Jake's only son)
+Dan,0       (Dan is son of Jones)
+Brian,1     (Brian is son of Jones)
+Michael,1   (Michael is son of Brian)
+DeVille,0   (DeVille is son of Michael)

@@ -1,0 +1,47 @@
+        WidgetLinkedList wlist = new WidgetLinkedList(new WidgetNode(5,5.90));
+        wlist.addToEnd(4,0.6);
+        wlist.addToEnd(5,0.6);
+        wlist.addToEnd(6,0.6);
+        wlist.addToEnd(99,0.6);
+        wlist.addToEnd(26,0.6);
+        wlist.addToEnd(3,0.6);
+        wlist.addToEnd(40,0.6);
+
+        makeLists(wlist);
+
+
+
+
+        //outside of main
+
+
+            public static void makeLists(WidgetLinkedList list){
+
+                WidgetNode current = list.getHead();
+                WidgetLinkedList evenList = new WidgetLinkedList(new WidgetNode(0,0));
+                WidgetLinkedList oddList = new WidgetLinkedList(new WidgetNode(1, 1));
+
+                while(current != null){
+                    if (current.getQuantity() % 2 == 0){
+                        evenList.addToEnd(current.getQuantity(), current.getPrice());
+                    } else {
+                        oddList.addToEnd(current.getQuantity(), current.getPrice());
+                    }
+                    current = current.getNext();
+                }
+
+                System.out.println("printing even list:  ");
+                printL(evenList);
+                System.out.println("printing odd list:  ");
+                printL(oddList);
+
+            }
+
+            public static void printL(WidgetLinkedList list){
+                WidgetNode current = list.getHead();
+                while(current != null){
+                    System.out.println(current);
+                    current = current.getNext();
+
+                }
+            }

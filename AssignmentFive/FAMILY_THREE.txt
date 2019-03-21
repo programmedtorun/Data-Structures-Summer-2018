@@ -1,0 +1,43 @@
+Thomas,8
+John,2
+Jane,2
+Jane kid1,0
+Jane kid2,0
+John Junior,0
+Ethel,0
+James,3
+Marian,0
+Loretta,1
+Arisa,0
+Naomi,0
+Ruth,3
+Diane,1
+Larry,0
+Carolyn,2
+Carolyn kid1,0
+Carolyn kid2,0
+Eileen,2
+Eileen kid1,0
+Eileen kid2,0
+Olive,0
+Thomas Junior,2
+Kathy,2
+Kathy kid1,0
+Kathy kid2,0
+Judy,0
+Miriam,4
+Beatrice,2
+Patrick,0
+Julia,0
+George,3
+Spencer,0
+Jake,0
+Gina,0
+Earl,2
+Brooklyn,0
+EJ,0
+Charmee,2
+Rachel,0
+Fletcher,0
+Charles,1
+Henry,0

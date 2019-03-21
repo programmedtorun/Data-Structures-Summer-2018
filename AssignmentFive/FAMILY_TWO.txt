@@ -1,0 +1,59 @@
+Samuel,5
+Joseph's brother1 <name unknown>,0
+Joseph's brother2 <name unknown>,0
+Joseph's brother3 <name unknown>,0
+Joseph's brother4 <name unknown>,0
+Joseph,10
+Rebbie,3
+Stacee,1
+London,0
+Yashi,0
+Nathaniel,0
+Sigmund,4
+Siggy,2
+Jared,0
+Kai-Ari,0
+Brandi,0
+Jaylen,0
+River,0
+Tito,3
+Taj,0
+Taryll,2
+Bryce,0
+Adren,0
+TJ,4
+Royal,0
+Delores,0
+Dallas,0
+Rio,0
+Jermaine,7
+Jay,1
+Soltan,0
+Autumn,0
+Jeremy,0
+Jaimy,0
+Jourdynn,1
+Bobbi,0
+Jaafar,0
+Jermajesty,0
+La Toya,0
+Marlon,3
+Valencia,2
+Noah,0
+Sophia,0
+Brittany,3
+Phoenix,0
+Savanna,0
+Summer,0
+Marlon,0
+Brandon,0
+MICHAEL,3
+Prince,0
+Paris,0
+Blanket,0
+Randy,3
+Genevieve,0
+Steveanna,0
+Steven,0
+JANET,1
+Eissa,0
