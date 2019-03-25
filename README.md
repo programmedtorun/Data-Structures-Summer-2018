@@ -1,6 +1,8 @@
-# Data Structures Assignments Summer 2018
+# Data Structures Assignments Summer 2018 - Brooklyn College
 
 Run programs with SDK 1.8 and Java 8, and using an IDE such as IntelliJ IDEA
+
+Instructions for assignments were provided by Professor Moshe Lowenthal in hard copy and uploaded to this project directory
 
 ### Assignment 1
 
